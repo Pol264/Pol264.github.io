@@ -1,11 +1,13 @@
 
 ---
+
 layout: post
 title: AnVIL: A Cloud Platform Transforming Genomic Research
 subtitle: Why modern biomedicine increasingly brings computation to the data
 tags: [cloud computing, biomedicine, genomics, bioinformatics]
 comments: true
 author: Pol Jardí
+
 ---
 
 {: .box-note}
