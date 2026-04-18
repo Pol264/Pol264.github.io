@@ -1,18 +1,18 @@
 
 ---
-
 layout: post
 title: AnVIL: A Cloud Platform Transforming Genomic Research
 subtitle: Why modern biomedicine increasingly brings computation to the data
 tags: [cloud computing, biomedicine, genomics, bioinformatics]
 comments: true
 author: Pol Jardí
-
 ---
 
-{: .box-note}
 **Article explored:** Schatz MC, Philippakis AA, Afgan E, et al. *Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space (AnVIL).* Cell Genomics. 2022;2(1):100085.
 
+## Introduction
+
+Cloud computing is becoming essential in biomedicine because modern datasets are too large, too sensitive, and too complex for the old workflow of downloading everything to a local computer.
 ## Introduction
 
 Cloud computing is becoming essential in biomedicine because modern datasets are too large, too sensitive, and too complex for the old workflow of downloading everything to a local computer. One cloud application that I found especially interesting is **AnVIL** (Analysis, Visualization, and Informatics Lab-space), a platform developed to support large-scale genomic and biomedical research in the cloud [1,2].
