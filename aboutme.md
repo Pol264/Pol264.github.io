@@ -4,14 +4,13 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Pol Jardi Yanes, I am from Barcelona and this is my profile. Have a look!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Bioinformatics degree at ESCI-UPF (2022 - 2025)
+- Master in health data science at URV (2025 - 2027)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- AI engineer at Nostrum Biodiscovery (2023 - 2025)
+- Bioinformatician at IGTP (2025 - present)
